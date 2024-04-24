@@ -462,8 +462,9 @@ go get -t -v
 go test -gcflags=all=-l ./...
 ```
 
+## 贡献者
+- 曹钊 (CAO ZHAO)
 ## 联系微信支付
-如果你发现了 BUG，或者需要的功能还未支持，或者有任何疑问、建议，欢迎通过 [issue](https://github.com/wechatpay-apiv3/wechatpay-go/issues) 反馈。
 
 也欢迎访问微信支付的 [开发者社区](https://developers.weixin.qq.com/community/pay)。
 
